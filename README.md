@@ -43,9 +43,11 @@
 
 In appsettings.json, configure your connection string to your SQL Server database.
 
+```js
 "ConnectionStrings": {
   "DefaultConnection": "Server=your-server-name;Database=your-data-base-name;Trusted_Connection=True;"
 }
+```
 
 3. **Run the Migrations:**
 
