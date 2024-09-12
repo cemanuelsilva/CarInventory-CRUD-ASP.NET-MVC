@@ -1,0 +1,73 @@
+﻿@model Car
+
+@section title {
+    <h2> Edit Car Entry </h2>
+}
+
+<form method="post" asp-controller="Car" asp-action="UpdateCar">
+    <!-- Validation summary for displaying validation errors -->
+    <input type="hidden" asp-for="carId" />
+    <div class="text-danger" asp-validation-summary="All"></div>
+
+    <!-- Car Name -->
+    <div class="row mb-3">
+        <div class="col-2">
+            <label asp-for="carName" class="col-form-label"></label>
+        </div>
+        <div class="col-10">
+            <input asp-for="carName" class="form-control" required />
+            <span asp-validation-for="carName" class="text-danger"></span>
+        </div>
+    </div>
+
+    <!-- Plate -->
+    <div class="row mb-3">
+        <div class="col-2">
+            <label asp-for="plate" class="col-form-label"></label>
+        </div>
+        <div class="col-10">
+            <input asp-for="plate" class="form-control" required />
+            <span asp-validation-for="plate" class="text-danger"></span>
+        </div>
+    </div>
+
+    <!-- Date of Plate -->
+    <div class="row mb-3">
+        <div class="col-2">
+            <label asp-for="datePlate" class="col-form-label"></label>
+        </div>
+        <div class="col-10">
+            <input asp-for="datePlate" class="form-control" type="date" required />
+            <span asp-validation-for="datePlate" class="text-danger"></span>
+        </div>
+    </div>
+
+    <!-- Car Owner -->
+    <div class="row mb-3">
+        <div class="col-2">
+            <label asp-for="carOwner" class="col-form-label"></label>
+        </div>
+        <div class="col-10">
+            <input asp-for="carOwner" class="form-control" required />
+            <span asp-validation-for="carOwner" class="text-danger"></span>
+        </div>
+    </div>
+
+    <!-- Mark -->
+    <div class="row mb-3">
+        <div class="col-2">
+            <label asp-for="mark" class="col-form-label"></label>
+        </div>
+        <div class="col-10">
+            <input asp-for="mark" class="form-control" required />
+            <span asp-validation-for="mark" class="text-danger"></span>
+        </div>
+    </div>
+
+    <!-- Submit Button -->
+    <div class="row mb-3">
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary">Update Car</button>
+        </div>
+    </div>
+</form>

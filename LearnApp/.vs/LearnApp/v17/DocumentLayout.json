@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\migrations\\20240902142309_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\migrations\\20240902142309_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\views\\car\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\views\\car\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\views\\car\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\views\\car\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|c:\\users\\carlos\\desktop\\learnapp\\learnapp\\learnapp\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD457703-A2A0-4F54-ACB6-B60CDD6F138E}|LearnApp\\LearnApp.csproj|solutionrelative:learnapp\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "LearnApp\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Controllers\\CarController.cs",
+              "RelativeToolTip": "LearnApp\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:09:38.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Models\\DbContext.cs",
+              "RelativeDocumentMoniker": "LearnApp\\Models\\DbContext.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Models\\DbContext.cs",
+              "RelativeToolTip": "LearnApp\\Models\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:18:14.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "LearnApp\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Models\\Car.cs",
+              "RelativeToolTip": "LearnApp\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:04:39.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Program.cs",
+              "RelativeDocumentMoniker": "LearnApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Program.cs",
+              "RelativeToolTip": "LearnApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:02:09.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LearnApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LearnApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T19:40:38.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LearnApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LearnApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:39:54.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240902142309_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Migrations\\20240902142309_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LearnApp\\Migrations\\20240902142309_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Migrations\\20240902142309_InitialCreate.cs",
+              "RelativeToolTip": "LearnApp\\Migrations\\20240902142309_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:23:09.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\appsettings.json",
+              "RelativeDocumentMoniker": "LearnApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\appsettings.json",
+              "RelativeToolTip": "LearnApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T14:16:26.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LearnApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LearnApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T14:50:17.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "LearnApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "LearnApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-03T19:33:49.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LearnApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LearnApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T19:30:24.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Views\\Car\\Index.cshtml",
+              "RelativeDocumentMoniker": "LearnApp\\Views\\Car\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Views\\Car\\Index.cshtml",
+              "RelativeToolTip": "LearnApp\\Views\\Car\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T15:18:47.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Views\\Car\\Create.cshtml",
+              "RelativeDocumentMoniker": "LearnApp\\Views\\Car\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Views\\Car\\Create.cshtml",
+              "RelativeToolTip": "LearnApp\\Views\\Car\\Create.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T21:17:05.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Views\\Car\\Update.cshtml",
+              "RelativeDocumentMoniker": "LearnApp\\Views\\Car\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Views\\Car\\Update.cshtml",
+              "RelativeToolTip": "LearnApp\\Views\\Car\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T15:39:42.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Views\\Car\\Error.cshtml",
+              "RelativeDocumentMoniker": "LearnApp\\Views\\Car\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Views\\Car\\Error.cshtml",
+              "RelativeToolTip": "LearnApp\\Views\\Car\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T15:23:26.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LearnApp\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\LearnApp\\LearnApp\\LearnApp\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LearnApp\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T15:14:24.681Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿@model List<LearnApp.Models.Car>
+
+@section title {
+    <h2>Car List</h2>    
+}
+    <!-- Button to create car entries.-->
+    <a href="@Url.Action("CreateCar", "Car")" class="btn btn-primary">Create</a>
+
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Car ID</th>
+                <th>Plate</th>
+                <th>Date Plate</th>
+                <th>Car Owner</th>
+                <th>Car Name</th>
+                <th>Mark</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var car in Model)
+            {
+                <tr>
+                    <td>@car.carId</td>
+                    <td>@car.plate</td>
+                    <td>@car.datePlate.ToShortDateString()</td>
+                    <td>@car.carOwner</td>
+                    <td>@car.carName</td>
+                    <td>@car.mark</td>
+                    <td>
+                        <form method="post" action="@Url.Action("DeleteCar", "Car")" style="display:inline;">
+                            <input type="hidden" name="plateGiven" value="@car.plate" />
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                        <form method="get" action="@Url.Action("UpdateCar", "Car")" style="display:inline;">
+                            <input type="hidden" name="id" value="@car.carId" />
+                            <button type="submit" class="btn btn-primary">Edit</button>
+                        </form>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
